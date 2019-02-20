@@ -1,3 +1,2 @@
-x = 10
-y = 5
-ans = x + y
+studentA = 'I\'m StudentA.'
+print(studentA)
